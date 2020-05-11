@@ -28,6 +28,3 @@ Then, you can clone this repository and run the following commands inside the pr
 
 1. `yarn dev`;
 
-Obs: don't forget to create the `.env` (please duplicate `.env.example`).
-
-You can even run `yarn test` after created `.env.test`!
